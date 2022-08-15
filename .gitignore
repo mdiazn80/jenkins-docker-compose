@@ -1,0 +1,5 @@
+.DS_Store
+data/jenkins-server/*
+!data/jenkins-server/.gitkeep
+data/jenkins-agent/*
+!data/jenkins-agent/.gitkeep
